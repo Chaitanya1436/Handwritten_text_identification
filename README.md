@@ -132,3 +132,7 @@ python main.py --img_file ../data/sample_sentence.png
 Designed only for sentence-level recognition, not isolated words.
 Can be extended for custom datasets with similar handwriting formats.
 Virtual environments (venv/, .venv/) are excluded via .gitignore.
+
+# 🙌 Attribution
+This project is inspired by SimpleHTR by githubharald
+and extended for sentence-level handwritten text recognition.
