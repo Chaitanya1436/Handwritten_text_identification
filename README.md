@@ -27,6 +27,7 @@ The system takes an image containing a **handwritten sentence** and outputs the 
 
 ## 🗂️ Project Structure
 
+```
 Handwritten_text_identification/
 │
 ├── data/ # Sample images and dataset folder
@@ -51,7 +52,7 @@ Handwritten_text_identification/
 ├── LICENSE.md # License (MIT)
 └── README.md # Documentation
 
-
+```
 ---
 
 ## ⚙️ Installation and Setup
