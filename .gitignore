@@ -7,3 +7,5 @@ notes/
 .idea/
 dump/
 venv
+Handwritten_detection_trained_models/__pycache__
+Handwritten_detection_trained_models/temp_hf_images
